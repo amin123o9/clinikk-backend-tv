@@ -27,7 +27,7 @@ Installation
 
 Clone the repository:
 
-bashCopygit clone <repository-url>
+git clone <repository-url>
 cd clinikk-tv-backend
 
 Install dependencies:
@@ -37,6 +37,8 @@ Install dependencies:
 Start the server:
 
 npm start
+
+
 API Endpoints
 Authentication
 
@@ -67,4 +69,4 @@ jsonCopy{
   "endDate": "2026-02-14"
 }
 
-GET /api/subscriptions/status - Check subscription status
+GET /subscriptions/status - Check subscription status
