@@ -1,4 +1,4 @@
-﻿# clinikk-backend-tv
+﻿# Clinikk-backend-tv
 Features
 The backend provides several key functionalities:
 
